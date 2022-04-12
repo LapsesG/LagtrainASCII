@@ -1,4 +1,4 @@
-# LagtrainASCII
+# Lagtrain to ASCII
 Used to create ASCII art of gifs by averaging the darkness of groups of pixels and transforming them into ASCII chaarcters
 Works best with grayscaled gifs, also works with colored gifs, although no guarantee it works well
 
