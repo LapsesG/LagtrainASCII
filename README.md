@@ -32,7 +32,7 @@ To run the command, go to the directory containing Lagtrain.py and the gifs fold
 Lagtrain.py <filename>
 ```
 <filename> being the name of the file you want to run. 
-A Lagtrain gif named "Lagtrain.gif" is provided by default, to run the program with it, you would run
+A Lagtrain gif named "Lagtrain.gif" can be downloaded at https://www.mediafire.com/file/p4az6wqt8lifkc7/Lagtrain.gif/file, to run the program with it, you would run
 ```
 Lagtrain.py Lagtrain.gif
 ```
